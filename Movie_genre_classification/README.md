@@ -18,7 +18,6 @@ Movie_genre_classification/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-
 ---
 
 ## Features
