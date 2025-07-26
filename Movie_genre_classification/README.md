@@ -8,15 +8,14 @@ The project includes both a training pipeline and a deployed web app built with 
 ---
 
 ## Project Structure
-
+```
 Movie_genre_classification/
-│
-├── Movie_genre.ipynb 
-├── app.py 
-├── genre_model.pkl 
-├── movie_vectorizer.pkl 
-├── requirements.txt 
-└── README.md 
+├── Movie_genre.ipynb       
+├── app.py                  
+├── genre_model.pkl        
+├── movie_vectorizer.pkl    
+├── requirements.txt        
+└── README.md            
 
 
 ---
@@ -72,13 +71,5 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 
-## Project Structure
-```
-Movie_genre_classification/
-├── Movie_genre.ipynb       
-├── app.py                  
-├── genre_model.pkl        
-├── movie_vectorizer.pkl    
-├── requirements.txt        
-└── README.md               
+   
 
