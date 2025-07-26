@@ -11,12 +11,12 @@ The project includes both a training pipeline and a deployed web app built with 
 
 Movie_genre_classification/
 │
-├── Movie_genre.ipynb # Jupyter notebook for data preprocessing, training, and evaluation
-├── app.py # Streamlit app for live predictions
-├── genre_model.pkl # Saved ML model
-├── movie_vectorizer.pkl # Saved TF-IDF vectorizer
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── Movie_genre.ipynb 
+├── app.py 
+├── genre_model.pkl 
+├── movie_vectorizer.pkl 
+├── requirements.txt 
+└── README.md 
 
 
 ---
